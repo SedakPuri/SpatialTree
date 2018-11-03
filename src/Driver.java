@@ -1,8 +1,3 @@
-/*Sedak Puri
- * Spatial Tree Assignment
- * Professor Albow
- * Intro to CS 3
- */
 import java.awt.event.KeyEvent;
 import java.awt.geom.Point2D;
 
